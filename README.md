@@ -1,3 +1,3 @@
 # Лабораторні роботи з дисципліни "Програмування мобільних пристроїв"
 
-### Лабораторна робота 1 - Базовий синтаксис Kotlin - https://classroom.github.com/a/cRrUKxuM
+### Лабораторна робота 1. Базовий синтаксис Kotlin - https://classroom.github.com/a/cRrUKxuM
